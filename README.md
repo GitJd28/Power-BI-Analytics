@@ -1,6 +1,6 @@
 # Power BI Projects
 
-A collection of Power BI projects created while learning data visualization, reporting, and dashboard development.
+This repository documents my journey of learning Power BI through hands-on projects, dashboards, and data analysis exercises. The goal is to build practical business intelligence skills by working with real datasets and creating interactive reports.
 
 Current projects:
 
