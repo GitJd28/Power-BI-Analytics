@@ -10,10 +10,6 @@ This project is part of my Power BI learning journey. It demonstrates the creati
 * `sales_data.csv` – Dataset used for analysis
 * `Images/` – Dashboard screenshots
 
-## Dashboard Preview
-
-![Sales Dashboard](Images/dashboard_screenshot.png)
-
 ## Key Insights
 
 * Sales performance analysis
