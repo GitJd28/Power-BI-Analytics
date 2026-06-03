@@ -13,9 +13,9 @@ This project is part of my Power BI learning journey. It demonstrates the creati
 ## Key Insights
 
 * Sales performance analysis
-* Revenue trends visualization
+* Revenue trends visualization . 
 * Product and regional performance tracking
-* Interactive filtering and drill-down capabilities
+* Interactive filtering and drill-down capabilities.
 
 ## Tools Used
 
@@ -27,7 +27,6 @@ This project is part of my Power BI learning journey. It demonstrates the creati
 ## Learning Outcomes
 
 Through this project, I practiced:
-
 * Data cleaning and transformation
 * Data modeling
 * Creating interactive visualizations
@@ -35,5 +34,4 @@ Through this project, I practiced:
 * Using DAX for calculations
 
 ---
-
 Part of my Power BI learning and portfolio repository.
