@@ -5,5 +5,6 @@ This repository documents my journey of learning Power BI through hands-on proje
 Current projects:
 
 * Sales Dashboard Project
+* Coffee Shop sales dashboard
 
 Each project folder contains the dataset, Power BI report file, and supporting files.
