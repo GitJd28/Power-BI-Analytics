@@ -1,6 +1,6 @@
 # Power BI Projects
 
-This repository documents my journey of learning Power BI through hands-on projects, dashboards, and data analysis exercises. The goal is to build practical business intelligence skills by working with real datasets and creating interactive reports.
+This repository contains my projects working with Power BI. It includes dashboards, reports, and data analysis exercises to improve my skills using real datasets.
 
 Current projects:
 
