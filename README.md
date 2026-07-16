@@ -7,5 +7,6 @@ Current projects:
 * Sales Dashboard Project
 * Coffee Shop sales dashboard
 * Netflix Binge Detective
+* Spotify
 
 Each project folder contains the dataset, Power BI report file, and supporting files.
